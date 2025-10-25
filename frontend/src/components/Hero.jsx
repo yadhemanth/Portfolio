@@ -88,7 +88,7 @@ export default function Hero() {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full opacity-20 animate-pulse"></div>
               <div className="absolute inset-4 bg-white dark:bg-gray-800 rounded-full flex items-center justify-center">
                 <img
-                  src="/hero-background.png"
+                  src="/clgpic_enh.jpg"
                   alt="Yadavalli Hemanth Kumar - Full Stack Developer"
                   className="w-full h-full object-cover rounded-full"
                 />
